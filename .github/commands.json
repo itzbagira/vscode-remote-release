@@ -1,10 +1,10 @@
 [
   {
-    "type": "comment",
+    "type": "login",
     "name": "question",
     "allowUsers": [
       "cleidigh",
-      "usernamehw"
+      "swetapawar347"
     ],
     "action": "updateLabels",
     "addLabel": "*question"
